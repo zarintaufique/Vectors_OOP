@@ -6,3 +6,9 @@ A vector is a quantity or phenomenon that has two independent properties: magnit
 
 The code in this repository gives an account of a vector class, with 3 dimensions.
 Concepts of OOP have been used to creat vector class objects in the main and perform operations such as magnitude, angle calculation etc.
+
+**Functions**
+1. Getters
+2. Setters
+3. Default Constructor
+4. Parametrised Constructor
