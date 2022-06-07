@@ -12,3 +12,8 @@ Concepts of OOP have been used to creat vector class objects in the main and per
 2. Setters
 3. Default Constructor
 4. Parametrised Constructor
+5. Friend functions
+   1. Boolean equal
+   2. Boolean not equal
+   3. input function
+   4. output function
