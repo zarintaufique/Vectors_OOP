@@ -175,25 +175,17 @@ public:
 			delete[] x;
 			x = nullptr;
 		}
-		else {
-			cout << "Nullptr.";
-		}
-
+	
 		if (y != nullptr) {
 			delete[] y;
 			y = nullptr;
 		}
-		else {
-			cout << "Nullptr";
-		}
-
+		
 		if (z != nullptr) {
 			delete[] z;
 			z = nullptr;
 		}
-		else {
-			cout << "Nullptr";
-		}
+		
 	}
 
 	// Friend functions(non member functions)
@@ -260,9 +252,7 @@ bool operator!=(const Vector vect1, const Vector vect2) {
 
 // Friend function to calculate the angle between the two vectors
 double Cosine_Angle(Vector& vect1, Vector& vect2) {
-	double Theeta; 
-	double cos_prod; 
-	double magnitude_product_of_two_vectors;     
+	double Theeta, cos_prod, magnitude_product_of_two_vectors;     
 
 	cos_prod = vect1.Dot_Product(vect2);
 	magnitude_product_of_two_vectors = (vect1.Vector_Magnitude()) * (vect2.Vector_Magnitude());
