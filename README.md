@@ -8,16 +8,23 @@ The code in this repository gives an account of a vector class, with 3 dimension
 Concepts of OOP have been used to creat vector class objects in the main and perform operations such as magnitude, angle calculation etc.
 
 **Functions**
-1. Getters
-2. Setters
-3. Default Constructor
-4. Parametrised Constructor
-5. Friend functions
+1. Default Constructor
+2. Parametrised Constructor 
+3. Copy Constructor
+4. Getters 
+5. Setters
+6. Friend functions
    1. Boolean equal
    2. Boolean not equal
    3. Input function
    4. output function
-6. Pre Increment
-7. Post Increment
-8. Addition of vectors
-9. Subtraction of vectors
+7. Pre Increment
+8. Post Increment
+9. Pre Decrement
+10. Post Decrement
+11. Addition of vectors
+12. Subtraction of vectors
+13. Dot Product
+14. Vector magnitude
+15. Assignment operator
+
