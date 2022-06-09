@@ -17,3 +17,7 @@ Concepts of OOP have been used to creat vector class objects in the main and per
    2. Boolean not equal
    3. Input function
    4. output function
+6. Pre Increment
+7. Post Increment
+8. Addition of vectors
+9. Subtraction of vectors
