@@ -14,10 +14,10 @@ Concepts of OOP have been used to creat vector class objects in the main and per
 4. Getters 
 5. Setters
 6. Friend functions
-   1. Boolean equal
-   2. Boolean not equal
-   3. Input function
-   4. Output function
+   - Boolean equal
+   - Boolean not equal
+   - Input function
+   - Output function
 7. Pre Increment
 8. Post Increment
 9. Pre Decrement
