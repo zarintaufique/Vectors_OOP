@@ -196,6 +196,7 @@ public:
 	friend bool operator !=(const Vector, const Vector);
 	friend double Cosine_Angle(Vector& , Vector&);
 };
+// Vector Class ends here
 
 // Friend function to take input from the user
 istream& operator >>(istream& in, Vector& vect) {
