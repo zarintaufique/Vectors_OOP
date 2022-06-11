@@ -27,4 +27,6 @@ Concepts of OOP have been used to creat vector class objects in the main and per
 13. Dot Product
 14. Vector magnitude
 15. Assignment operator
+16. Input Function
+17. Display Function
 
