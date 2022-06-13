@@ -12,6 +12,7 @@ private:
 	double* y;
 	double* z;
 public:
+	// ------------------Public Member Functions------------------
 	// Default Constructor
 	Vector() {
 		x = nullptr;
