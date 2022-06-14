@@ -1,8 +1,8 @@
 # Vectors_OOP
 
 A vector is a quantity that has two independent properties: 
-1. magnitude
-2. direction. 
+1. Magnitude
+2. Direction. 
 The term also denotes the mathematical or geometrical representation of such a quantity.
 
 ![image](https://user-images.githubusercontent.com/76726810/172097096-56828214-39ce-4499-828d-2f15c16ef0aa.png)
