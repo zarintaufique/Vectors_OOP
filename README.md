@@ -1,6 +1,6 @@
 # Vectors_OOP
 
-A vector is a quantity that has two independent properties: 
+A **vector** is a quantity that has two independent properties: 
 1. Magnitude
 2. Direction. 
 The term also denotes the mathematical or geometrical representation of such a quantity.
