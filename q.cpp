@@ -1,7 +1,6 @@
 #include <iostream>	// input and output
 #include <conio.h>
 #include <stdlib.h>
-#include <fstream>	// filing 
 #include <cmath>       // for the inverse of cosine function
 
 using namespace std;
