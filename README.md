@@ -3,7 +3,6 @@
 A **vector** is a quantity that has two independent properties: 
 1. Magnitude
 2. Direction. 
-The term also denotes the mathematical or geometrical representation of such a quantity.
 
 The code in this repository gives an account of a vector class, with 3 dimensions.
 Concepts of OOP have been used to creat vector class objects in the main and perform operations such as magnitude, angle calculation etc.
