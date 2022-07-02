@@ -106,17 +106,17 @@ public:
 		z = Vect.z;
 		return *this;
 	}
-
-	// Post increment
-	Vector operator++() {
+	
+	// Pre increment
+	Vector operator++(int) {
 		(*(x))++;
 		(*(y))++;
 		(*(z))++;
 		return *this;
 	}
 
-	// Pre increment
-	Vector operator++(int) {
+	// Post increment
+	Vector operator++() {
 		(*(x))++;
 		(*(y))++;
 		(*(z))++;
