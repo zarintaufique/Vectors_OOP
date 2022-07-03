@@ -1,6 +1,6 @@
 # Vectors_OOP
 
-A **vector** is a quantity that has two independent properties: 
+A **vector** is a quantity that has two independent properties. They are as follows:
 1. Magnitude
 2. Direction. 
 
