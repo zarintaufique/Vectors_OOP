@@ -6,6 +6,7 @@
 using namespace std;
 
 // class begins here
+
 class Vector {
 private:
 	// Private data members
