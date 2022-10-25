@@ -2,7 +2,6 @@
 #include <conio.h>
 #include <stdlib.h>
 #include <cmath>       // for the inverse of cosine function
-
 using namespace std;
 
 // class begins here
