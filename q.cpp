@@ -258,7 +258,6 @@ bool operator!=(const Vector vect1, const Vector vect2) {
 // Friend function to calculate the angle between the two vectors
 double Cosine_Angle(Vector& vect1, Vector& vect2) {
 	double Theeta, cos_prod, magnitude_product_of_two_vectors;     
-
 	cos_prod = vect1.Dot_Product(vect2);
 	magnitude_product_of_two_vectors = (vect1.Vector_Magnitude()) * (vect2.Vector_Magnitude());
 	Theeta = acos(cos_prod / magnitude_product_of_two_vectors);      // acos means arc of cosine, meaning inverse of cosine
