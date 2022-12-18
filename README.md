@@ -28,5 +28,3 @@ Code in this repository gives an account of a vector class, with 3 dimensions. C
 15. Assignment operator
 16. Input Function
 17. Display Function
-
-
