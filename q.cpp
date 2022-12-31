@@ -1,5 +1,4 @@
 // Main file
-
 #include <iostream>	// input and output
 #include <conio.h>
 #include <stdlib.h>
